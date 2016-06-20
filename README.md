@@ -10,3 +10,5 @@ To build an app extension for Messages, you will need to make use of the new Mes
 In this tutorial, I will show you how to build a stick pack using the framework. For details of the tutorial, please refer to:
 
 http://www.appcoda.com/messages-sticker-app
+
+![](http://www.appcoda.com/wp-content/uploads/2016/06/messages-test-between-users-1024x577.png)

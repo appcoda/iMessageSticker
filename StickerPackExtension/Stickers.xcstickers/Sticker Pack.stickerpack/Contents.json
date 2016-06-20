@@ -1,0 +1,62 @@
+{
+  "stickers" : [
+    {
+      "filename" : "001.sticker"
+    },
+    {
+      "filename" : "002.sticker"
+    },
+    {
+      "filename" : "003.sticker"
+    },
+    {
+      "filename" : "004.sticker"
+    },
+    {
+      "filename" : "005.sticker"
+    },
+    {
+      "filename" : "006.sticker"
+    },
+    {
+      "filename" : "007.sticker"
+    },
+    {
+      "filename" : "008.sticker"
+    },
+    {
+      "filename" : "009.sticker"
+    },
+    {
+      "filename" : "010.sticker"
+    },
+    {
+      "filename" : "011.sticker"
+    },
+    {
+      "filename" : "012.sticker"
+    },
+    {
+      "filename" : "013.sticker"
+    },
+    {
+      "filename" : "014.sticker"
+    },
+    {
+      "filename" : "015.sticker"
+    },
+    {
+      "filename" : "giphy-2.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}

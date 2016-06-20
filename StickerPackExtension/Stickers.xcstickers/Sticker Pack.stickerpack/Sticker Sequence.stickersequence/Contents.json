@@ -1,0 +1,64 @@
+{
+  "properties" : {
+    "duration" : 15,
+    "duration-type" : "fps",
+    "repetitions" : 0
+  },
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "frames" : [
+    {
+
+    },
+    {
+      "filename" : "win_1.png"
+    },
+    {
+      "filename" : "win_2.png"
+    },
+    {
+      "filename" : "win_3.png"
+    },
+    {
+      "filename" : "win_4.png"
+    },
+    {
+      "filename" : "win_5.png"
+    },
+    {
+      "filename" : "win_6.png"
+    },
+    {
+      "filename" : "win_7.png"
+    },
+    {
+      "filename" : "win_8.png"
+    },
+    {
+      "filename" : "win_9.png"
+    },
+    {
+      "filename" : "win_10.png"
+    },
+    {
+      "filename" : "win_11.png"
+    },
+    {
+      "filename" : "win_12.png"
+    },
+    {
+      "filename" : "win_13.png"
+    },
+    {
+      "filename" : "win_14.png"
+    },
+    {
+      "filename" : "win_15.png"
+    },
+    {
+      "filename" : "win_16.png"
+    }
+  ]
+}
